@@ -29,10 +29,12 @@ input[type=text], input[type=number] {
 }
 
 input[type=submit]{
-    width: 30%;
+    width: 20%;
     background-color: #ddd;
+    font-size: 16px;
     color: #000;
-    padding: 14px 20px;
+    font-weight: bold;
+    padding: 14px 16px;
     margin: 8px 0;
     border: none;
     border-radius: 4px;
